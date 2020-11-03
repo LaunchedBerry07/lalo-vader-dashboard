@@ -1,20 +1,20 @@
 {
-	"title" : "Your Homepage Title",
+	"title" : "Plateforme centrale de Lalo",
 	"items" : [
 		{
-			"alt" : "Github",
+			"alt" : "Outlook",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://login.live.com/"
 		},
 		{
-			"alt" : "Twitter",
+			"alt" : "Gmail",
 			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"link" : "https://www.google.com/gmail/"
 		},
 		{
-			"alt" : "Docker Hub",
+			"alt" : "Bitwarden",
 			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"link" : "https://vault.bitwarden.com/"
 		}
 	]
 }
