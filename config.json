@@ -2,6 +2,11 @@
 	"title" : "Plateforme centrale de Lalo",
 	"items" : [
 		{
+			"alt" : "Webmail",
+			"icon" : "fas fa-envelope-open-text",
+			"link" : "https://email.caifan.one/"
+		},
+		{
 			"alt" : "Outlook",
 			"icon" : "fas fa-envelope",
 			"link" : "https://login.live.com/"
@@ -12,17 +17,12 @@
 			"link" : "https://www.google.com/gmail/"
 		},
 		{
-			"alt" : "Bitwarden",
-			"icon" : "fas fa-key",
-			"link" : "https://vault.bitwarden.com/"
-		},
-		{
 			"alt" : "WordPress",
 			"icon" : "fab fa-wordpress",
 			"link" : "https://caifanmontreal.com/wp-admin"
 		},
 		{
-			"alt" : "Caifan",
+			"alt" : "Site Web de Caifan",
 			"icon" : "fas fa-pepper-hot",
 			"link" : "https://caifanmontreal.com/"
 		},
